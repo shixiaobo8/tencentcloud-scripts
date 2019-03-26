@@ -15,13 +15,13 @@ LOG_FORMAT = "%(asctime)s - %(levelname)s - %(message)s"
 logging.basicConfig(filename=sms_log, level=logging.DEBUG, format=LOG_FORMAT)
 
 # 短信应用SDK AppID
-appid = 1400039863  # SDK AppID是1400开头
+appid = 2323232  # SDK AppID是1400开头
 
 # 短信应用SDK AppKey
-appkey = "08054ffbxxxxxxxxxxxx"
+appkey = "sdafsfsfsdfs"
 
 # 需要发送短信的手机号码
-# phone_numbers = ["13148744969", "15211795210"]
+# phone_numbers = ["2323269", "2323230"]
 phone_numbers = []
 
 # 短信模板ID，需要在短信应用中申请
