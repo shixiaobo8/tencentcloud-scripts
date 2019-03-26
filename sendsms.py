@@ -18,7 +18,7 @@ logging.basicConfig(filename=sms_log, level=logging.DEBUG, format=LOG_FORMAT)
 appid = 1400039863  # SDK AppID是1400开头
 
 # 短信应用SDK AppKey
-appkey = "08054ffb0ab4009b82ee005a5b489665"
+appkey = "08054ffbxxxxxxxxxxxx"
 
 # 需要发送短信的手机号码
 # phone_numbers = ["13148744969", "15211795210"]
